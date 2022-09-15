@@ -1,0 +1,33 @@
+{
+    "posts":[
+        {
+            "id":1,
+            "title":"json-server",
+            "author":"typeicode"
+        }
+    ],
+    "comments":[
+        {
+            "id": 1,
+            "body":"some content",
+            "postId":1
+        }
+    ],
+    "todo": [
+        {
+            "status":1,
+            "title":"Astreoijg",
+            "id":3
+        },
+        {
+            "status":0,
+            "title":"Test2",
+            "id":4
+        },
+        {
+            "status":2,
+            "title":"Inca ceva terminat",
+            "id":5
+        }
+    ]
+}
